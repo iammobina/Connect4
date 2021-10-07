@@ -1,0 +1,4 @@
+﻿  Connect4.cpp
+C:\Users\AVAJANG\source\repos\Connect4\Connect4\Connect4.cpp(66,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AVAJANG\source\repos\Connect4\Connect4\Connect4.cpp(67,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Connect4.vcxproj -> C:\Users\AVAJANG\source\repos\Connect4\Debug\Connect4.exe
