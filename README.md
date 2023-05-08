@@ -10,6 +10,8 @@ The game is written in C++.
 
 <img src="screenshot.png"></img> 
 
+<img src="connect.gif"></img> 
+
 
 
 ## Contributing
